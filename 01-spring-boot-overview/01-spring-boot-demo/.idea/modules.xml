@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/01-spring-boot-demo.iml" filepath="$PROJECT_DIR$/.idea/01-spring-boot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycoolapp/mycoolapp.iml" filepath="$PROJECT_DIR$/mycoolapp/mycoolapp.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/mycoolapp.iml" filepath="$PROJECT_DIR$/.idea/mycoolapp.iml" />
+>>>>>>> a25f54a293d4d4e3cba01c4ffc5f8b4745cf51dc
     </modules>
   </component>
 </project>
